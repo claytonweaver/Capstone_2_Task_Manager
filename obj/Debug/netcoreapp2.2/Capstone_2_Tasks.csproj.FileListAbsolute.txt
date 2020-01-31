@@ -1,0 +1,11 @@
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Capstones\Captstone_2_Tasks\Capstone_2_Tasks\bin\Debug\netcoreapp2.2\Capstone_2_Tasks.deps.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Capstones\Captstone_2_Tasks\Capstone_2_Tasks\bin\Debug\netcoreapp2.2\Capstone_2_Tasks.runtimeconfig.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Capstones\Captstone_2_Tasks\Capstone_2_Tasks\bin\Debug\netcoreapp2.2\Capstone_2_Tasks.runtimeconfig.dev.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Capstones\Captstone_2_Tasks\Capstone_2_Tasks\bin\Debug\netcoreapp2.2\Capstone_2_Tasks.dll
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Capstones\Captstone_2_Tasks\Capstone_2_Tasks\bin\Debug\netcoreapp2.2\Capstone_2_Tasks.pdb
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Capstones\Captstone_2_Tasks\Capstone_2_Tasks\obj\Debug\netcoreapp2.2\Capstone_2_Tasks.csprojAssemblyReference.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Capstones\Captstone_2_Tasks\Capstone_2_Tasks\obj\Debug\netcoreapp2.2\Capstone_2_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Capstones\Captstone_2_Tasks\Capstone_2_Tasks\obj\Debug\netcoreapp2.2\Capstone_2_Tasks.AssemblyInfoInputs.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Capstones\Captstone_2_Tasks\Capstone_2_Tasks\obj\Debug\netcoreapp2.2\Capstone_2_Tasks.AssemblyInfo.cs
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Capstones\Captstone_2_Tasks\Capstone_2_Tasks\obj\Debug\netcoreapp2.2\Capstone_2_Tasks.dll
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Capstones\Captstone_2_Tasks\Capstone_2_Tasks\obj\Debug\netcoreapp2.2\Capstone_2_Tasks.pdb
